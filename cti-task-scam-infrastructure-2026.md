@@ -108,5 +108,5 @@ Sandbox behavioral runs and passive DNS mapping revealed a multi-tiered infrastr
 * **Censys Platform Cluster Scan:** `https://platform.censys.io/search?q=%22l4bkoj45.sbs%22`
 * **VirusTotal Domain Graph:** `https://www.virustotal.com/graph/app.l4bkoj45.sbs`
 * **CentralNIC RDAP Telemetry:** `https://rdap.centralnic.com/sbs/domain/l4bkoj45.sbs`
-* **DNSChecker References: `https://dnschecker.org/all-dns-records-of-domain.php?query=app.l4bkoj45.sbs&rtype=ALL&dns=google`
-* **DNSChecker IP Location Report: `https://dnschecker.org/ip-location.php?ip=104.21.49.55`
+* **DNSChecker References:** `https://dnschecker.org/all-dns-records-of-domain.php?query=app.l4bkoj45.sbs&rtype=ALL&dns=google`
+* **DNSChecker IP Location Report:** `https://dnschecker.org/ip-location.php?ip=104.21.49.55`
